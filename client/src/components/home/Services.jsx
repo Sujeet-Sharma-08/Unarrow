@@ -33,6 +33,33 @@ const services = [
     desc:
       "Search Engine Optimization (SEO) is a cornerstone of our digital solutions, designed to enhance your online visibility and drive organic traffic. Our team of SEO specialists employs advanced techniques to improve your website's ranking on major search engines.",
   },
+
+  {
+    id: 4,
+    serviceNo: "04",
+    path: "/services/ui-ux-design",
+    service: "UI/UX Designing",
+    desc:
+      "The digital age has been continuously evolving. Over 4.66 billion people use the internet daily. It is transforming the way businesses operate. You can now get an online store that is open all day and night. Moreover,this shop can be easily accessed from anywhere.",
+  },
+
+
+  {
+    id: 5,
+    serviceNo: "05",
+    path: "/services/pay-per-click",
+    service: "Pay Per Click",
+    desc: "Pay-Per-Click (PPC) advertising is a powerful and measurable way for businesses to drive targeted traffic to their websites. With PPC, advertisers only pay when a user clicks on their ad, making it an effective method for increasing visibility and generating leads.",
+  },
+
+  {
+    id: 6,
+    serviceNo: "06",
+    path: "/services/website-redesigning",
+    service: "Website Redesigning",
+    desc:
+      "At Unarrow, we make websites that look great and work perfectly. Our team of expert developers uses the newest tools to build sites that are fast, easy to use, and show up well on .....",
+  },
 ];
 
 const Services = () => {
